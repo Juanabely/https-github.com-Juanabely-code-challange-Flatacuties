@@ -1,0 +1,30 @@
+body {background-color: black;
+color: aliceblue;}
+.head{
+    align-content: center;
+    font-weight: bolder;
+    margin-left: 10rem;
+    font-size: 5rem;
+}
+.button-one{
+    width: 60rem ;
+    height: 30rem;
+}
+.reset{
+    background-color: green;
+    color: aliceblue;
+    border: none;
+    padding: 1rem;
+}
+
+/*.image{
+    width: 200px 200px;
+    grid-column: auto;
+    padding-left: 50%;
+    margin-bottom: 10px;
+    top: 350px;
+    position: absolute;
+}*/
+section{
+    height: 10%;
+}
